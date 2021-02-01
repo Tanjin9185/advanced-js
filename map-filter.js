@@ -30,4 +30,4 @@ const bigger = numbers.filter(x => x>5);
 const bigger1 = numbers.find(x => x>5);     //i1st er 1ta vaule dibe
 console.log(bigger1);
 
-//map and fillter array return kre
+//map holo kono ekta array er modhye looping kre,se element gula nye kicu kre output r o ekta array dibe and fillter array return kre
