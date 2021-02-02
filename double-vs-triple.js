@@ -1,7 +1,7 @@
 const first = 0;
 const second = 1;
 
-if(first == second){
+if(first === second){
     console.log("Condition is True");
 }
 else{

@@ -23,8 +23,8 @@ const numbers = [3,2,4,2,4,2,4,6,8];
 // const square = element => element*element;
 // const square = x => x*x;
 
-// const result = numbers.map(x => x*x);
-// console.log(result);
+const result = numbers.map(x => x*x);
+console.log(result);
 
 const bigger = numbers.filter(x => x>5);
 const bigger1 = numbers.find(x => x>5);     //i1st er 1ta vaule dibe
