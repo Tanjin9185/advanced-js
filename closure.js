@@ -22,8 +22,8 @@ console.log(clock1());
 // kono ekta function er bitor teke r ekta function k cl/return krle ta ekta 
 // closure enviroment create kre
 
-// beiyer pgrm a waiter plate kre roast nye ashlo dite taklo..(const clock1 = stopWatch();
-// console.log(clock1());)   abr waiter onno dik gele or ses hye gele onno waiter roast dibe
+// beiyer pgrm a waiter plate kre roast nye ashlo dite taklo..(const clock1 = stopWatch();..>eta plate
+// console.log(clock1()); ..>egula roast)   abr waiter onno dik gele or ses hye gele onno waiter roast dibe
 // (const clock2 = stopWatch();
 // console.log(clock2());)
 //closure cl krle nije ekta close enviroment create kre
