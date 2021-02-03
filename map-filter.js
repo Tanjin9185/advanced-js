@@ -31,3 +31,4 @@ const bigger1 = numbers.find(x => x>5);     //i1st er 1ta vaule dibe
 console.log(bigger1);
 
 //map holo kono ekta array er modhye looping kre,se element gula nye kicu kre output r o ekta array dibe and fillter array return kre
+//map er bitor() arrow fun likhte hoi..map a 1ta parameter take jeta te loop kre data push kra hoi
